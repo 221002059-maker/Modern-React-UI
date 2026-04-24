@@ -1,0 +1,26 @@
+uploads = []
+outputs = []
+
+[[generated]]
+id = "zrFRK7w41ZRmfNwvwdqi-"
+uri = "file://artifacts/modern-dashboard/public/images/avatar-1.png"
+type = "image"
+title = "Female software engineer headshot"
+
+[[generated]]
+id = "fUFERjP2F-85bKsih-Kni"
+uri = "file://artifacts/modern-dashboard/public/images/avatar-2.png"
+type = "image"
+title = "Male product designer headshot"
+
+[[generated]]
+id = "HQxMoB1d5xvN2PSj_lnhG"
+uri = "file://artifacts/modern-dashboard/public/images/avatar-3.png"
+type = "image"
+title = "Female product manager headshot"
+
+[[generated]]
+id = "D6ijzfLtHd9XvIuwS_NTD"
+uri = "file://artifacts/modern-dashboard/public/images/hero.png"
+type = "image"
+title = "Modern 3d geometric hero background"
